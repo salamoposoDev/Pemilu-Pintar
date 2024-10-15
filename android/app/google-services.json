@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088679335825",
+    "project_id": "pilkada-pintar",
+    "storage_bucket": "pilkada-pintar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088679335825:android:8c566bb1bcef9fc7302c30",
+        "android_client_info": {
+          "package_name": "com.example.pemilu_pintar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYqKuruQVEipp9U4OHQwuXK_WQmagtN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
